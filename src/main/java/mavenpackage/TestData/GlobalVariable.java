@@ -10,7 +10,7 @@ public class GlobalVariable {
 
     private String websiteUrl = "http://automationpractice.com";
 
-    private String email = "AutomationDemo@gmail.com";
+    private String email = "kwanele.nzimande+test@gmail.com";
 
     private String password = "Test@123";
 
