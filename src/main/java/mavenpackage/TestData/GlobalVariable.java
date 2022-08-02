@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 
 import mavenpackage.Models.LoginModel;
 
-public class GlobalViraibles {
+public class GlobalVariable {
     
     WebDriver driver;
 
