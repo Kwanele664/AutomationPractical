@@ -2,10 +2,14 @@
 This Automation project is completed using Selenium Webdriver in Java, with POM pattern.
 
 # Pre-requisites
+- POM
+- Java
 
-# Setup
-
-# Usage
+# Dependencies
+- Selenium-java
+- Json-simple
+- Testng
+- Junit
 
 # project General Comments.
 
